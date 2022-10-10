@@ -1,16 +1,33 @@
-### Hi there 👋
+## **Información personal**
 
-<!--
-**Gia-ui/Gia-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nombre:** Gianmarco
 
-Here are some ideas to get you started:
+**Fecha de nacimiento:** 21/06/1999
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Apellidos:** Corbo
+
+**Nacionalidad:** Italia 
+
+**Correo electrónico:** alu0101134741@ull.edu.es
+
+**País:** España
+
+## **Estudios**
+
+**Título:** Grado en ingenieria informatica
+
+**Centro:** Universidad de La Laguna
+
+**Localidad:** San Cristobal de La Laguna
+
+**Fecha de fin:** Pendiente
+
+## **Lenguajes**
+
+**Lenguajes:** C++, Python
+
+## **Idiomas**
+
+**Idiomas:** Italiano, Español, Inglés 
+
+
